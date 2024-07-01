@@ -1,5 +1,6 @@
 
 
+
 # Business Case Study – Coffee Shop Startup
 
 ## Project Purpose:
@@ -33,6 +34,8 @@ Will our friend be profitable?
 
 For this; we used the data attached in the Excel file. 
 We then used Power BI to easily clean and visualize the data. 
+
+![image](https://github.com/SoorajSanjai/Case-1---Coffee-Shop/assets/173573833/0343045c-2bb8-4c6a-96d5-e725ea2842f4)
 
 ### KPI's 
 
