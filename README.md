@@ -10,27 +10,27 @@ Our friend is considering opening a coffee shop near a university, believing the
 ## Framework:
 
 1.	**Coffee Market Attractiveness**
-Is this an attractive market?
-- What is the opportunity size?
-- What is the market growth rate?
-- What are the average profit margins?
+- Is this an attractive market?
+  - What is the opportunity size?
+  - What is the market growth rate?
+  - What are the average profit margins?
 
 2.	**Competitive Landscape**
-Is there heavy competition?
-- How many competitors are there?
-- How much share do they have?
-- What are their competitive advantages?
+- Is there heavy competition?
+  - How many competitors are there?
+  - How much share do they have?
+  - What are their competitive advantages?
 
 3.	**Our Friend's Capabilities**
-Does our friend have the right capabilities?
-- Do they have sufficient capital?
-- Do they have experience?
-- Do they have relationships with suppliers?
+- Does our friend have the right capabilities?
+  - Do they have sufficient capital?
+  - Do they have experience?
+  - Do they have relationships with suppliers?
 
 4.	**Profitability**
-Will our friend be profitable?
-- What are expected revenues and costs?
-- Can they reach their financial goal or target?
+- Will our friend be profitable?
+  - What are expected revenues and costs?
+  - Can they reach their financial goal or target?
 
 For this; we used the data attached in the Excel file. 
 We then used Power BI to easily clean and visualize the data. 
@@ -135,14 +135,14 @@ The estimated monthly profit, considering lower-than-average prices to attract c
 
 **Financial Requirements:**
 
-* **Initial Capital Required:** $$72,000**
-* **Monthly Profit Projection:** $$6,500** (with conservative estimates)
+* **Initial Capital Required:** $$72,000
+* **Monthly Profit Projection:** $$6,500 (with conservative estimates)
 
 **Market Attractiveness:**
 
-* **Opportunity Size:** $$1.11 million**
+* **Opportunity Size:** $$1.11 million
 * **Growth Rate:** 5%
-* **Average Profit Margins:** $$173,000**
+* **Average Profit Margins:** $$173,000
 
 **Competitive Landscape:**
 
